@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon.ico</file>
+        <file>catmelon.png</file>
+        <file>kitten.jpg</file>
+        <file>ASTOTEC_logo_250x50.png</file>
+        <file>Sunny.JPEG</file>
+        <file>close.svg</file>
+        <file>Green.png</file>
+        <file>Red.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>MeownuUploaded.wav</file>
+    </qresource>
+</RCC>
